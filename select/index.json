@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "アンビリーバーズ",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2025-12-17T07:31:21.098448Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アンビリーバーズ",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_アンビリーバーズ_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アンビリーバーズ",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/02_アンビリーバーズ_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アンビリーバーズ",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/03_アンビリーバーズ_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アンビリーバーズ",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/04_アンビリーバーズ_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アンビリーバーズ",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/05_アンビリーバーズ_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アンビリーバーズ",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/06_アンビリーバーズ_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アンビリーバーズ - Unbelievers",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/07_アンビリーバーズ_-_Unbelievers_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Unbelievers (アンビリーバーズ)",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/08_Unbelievers_(アンビリーバーズ)_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アンビリーバーズ",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_アンビリーバーズ_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "アンビリーバーズ",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_02_アンビリーバーズ_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "アンビリーバーズ",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_03_アンビリーバーズ_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "アンビリーバーズ",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_04_アンビリーバーズ_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "アンビリーバーズ",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_05_アンビリーバーズ_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "アンビリーバーズ",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_06_アンビリーバーズ_米津玄師.txt"
+    }
+  ]
+}
